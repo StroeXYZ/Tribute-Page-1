@@ -1,0 +1,33 @@
+body {
+    background-color: #0E0E0E;
+    color: white;
+    font-family: monospace;
+}
+
+header {
+    text-align: center;
+    line-height: 1em;
+    font-weight: bold;
+}
+
+.quote {
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
+
+.bio {
+    text-align: center;
+}
+
+.sec-bio {
+    display: inline-block;
+    text-align: left;
+}
+
+footer {
+    text-align: center;
+}
